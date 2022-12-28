@@ -1,0 +1,22 @@
+<?xml version="1.0" standalone="yes"?>
+<dataset>
+  <Car>
+    <Brand>BMW2</Brand>
+    <ModelName>X5</ModelName>
+    <Horsepower>300</Horsepower>
+    <MaxSpeed>250</MaxSpeed>
+    <Type>car</Type>
+  </Car>
+  <Car>
+    <Brand>BMW</Brand>
+    <ModelName>X6</ModelName>
+    <Horsepower>300</Horsepower>
+    <MaxSpeed>250</MaxSpeed>
+    <Type>car</Type>
+  </Car>
+  <Car>
+    <Brand>test</Brand>
+    <ModelName>test</ModelName>
+    <Horsepower>999</Horsepower>
+  </Car>
+</dataset>
